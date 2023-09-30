@@ -1,0 +1,31 @@
+/*********************Tag_selector***************************/
+
+body{
+    background-color:rgb(207, 247, 255);
+   }
+hr{
+  border-style: none;
+ border-top-style: dotted;
+ border-color: gray;
+ border-width: 7px;
+   }
+   img:hover{
+    border-style:double;
+    border-width: 10px;
+    border-color: rgb(0, 254, 72);
+   }
+  h1{
+    color: rgb(0, 37, 157);
+    font-style:unset;
+  }
+  h2{
+    color: #290076;
+    font-style: inherit;
+  }
+  /*********************Class_Selector***************************/
+  .circular{
+    border-radius: 100%;
+  }
+  
+
+    /*********************ID_Selector***************************/
